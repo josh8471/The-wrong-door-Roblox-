@@ -1,0 +1,10 @@
+# Roblox Studio lock and backup files
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl.bak
+
+# Rojo
+sourcemap.json
+
+# macOS
+.DS_Store
